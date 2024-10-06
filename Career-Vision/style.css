@@ -1,0 +1,39 @@
+
+
+.wt {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 75vw;
+    margin:auto;
+    background-color: #ffcc99;
+    box-shadow: 15px 10px grey; 
+}
+
+.ts {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 75vw;
+    margin:auto;
+    background-color: #ffcc99;
+    box-shadow: 15px 10px grey; 
+}
+
+.dj {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 75vw;
+    margin:auto;
+    background-color: #ffcc99;
+    box-shadow: 15px 10px grey; 
+}
+
+img {
+    border: 10px solid black;
+    box-shadow: 15px 10px #cc6600; 
+}
